@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <h2> Hi, I´m David del Castillo! <img src=" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
+<img align='right' src="https://dribbble.com/shots/14225432-Coder/attachments/5867395?mode=media" width="230">
 <p><em>Developer Full-Stack at <a href="http://www.unb.br">Factoria F5</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>
 
 [![Twitter: ThaiiBraga](https://img.shields.io/twitter/follow/ThaiiBraga?style=social)](https://twitter.com/ThaiiBraga)
